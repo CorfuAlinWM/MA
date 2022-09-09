@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Stars Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Locations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="McA-Store-Locator-Overlay" transform="translate(-427.000000, -303.000000)" fill="#89B2C4">
+            <g id="Search-" transform="translate(0.000000, 189.000000)">
+                <g id="or" transform="translate(371.000000, 109.000000)">
+                    <g id="Stars-Copy" transform="translate(66.000000, 11.500000) scale(1, -1) translate(-66.000000, -11.500000) translate(56.000000, 5.000000)">
+                        <polygon id="star" points="14.2700329 12.9929137 14.4790077 10.037287 11.5375423 8.35842147 14.919964 7.86025129 15.4409633 4.99291369 16.9684931 7.50206282 19.5375423 7.32456968 17.6553303 9.54552119 19.0764555 11.9595194 16.4642693 10.8607087"></polygon>
+                        <polygon id="star" points="1.4907123 11.1708945 3.33538102 6.93381652 0 3.0337593 5.10574814 3.95441541 7.35117742 0 8.22700015 4.42818997 12 5.4215144 8.14275267 7.76292199 8.91560626 12 5.74813515 9.11157734"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
